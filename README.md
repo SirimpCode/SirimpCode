@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Venom&height=300&section=header&text=Sirimp's%20Code&fontSize=100&theme=graywhite&animation=fadeIn)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SirimpCode&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SirimpCode&show_icons=true&theme=nightowl)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirimpCode&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirimpCode&layout=compact&theme=nightowl)
