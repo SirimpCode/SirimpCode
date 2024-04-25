@@ -52,8 +52,8 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://velog.io/@oka1313">
-    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
+  <a href="https://www.notion.so/3998f20916bb44f084733bed17f3654a">
+    <img src="https://img.shields.io/badge/SiHu's%20Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
   </a>
   <a href="mailto:sihu89@daum.net">
     <img
